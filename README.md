@@ -4,4 +4,4 @@
 
 My Leetcode contests and month long challenges submissions. 
 
-My ID : <a href="https://leetcode.com/utkarshbajaj">utkarshbajaj</a>, Rating : 1684
+My ID : <a href="https://leetcode.com/utkarshbajaj">utkarshbajaj</a>, Rating : 1722
